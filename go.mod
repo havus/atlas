@@ -1,4 +1,4 @@
-module github.com/havus/discord-bot-member-inspector
+module github.com/havus/atlas
 
 go 1.20
 
